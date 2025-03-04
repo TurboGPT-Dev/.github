@@ -1,4 +1,4 @@
-## Welcome to TurboGPT Organization!  
+## Welcome to TurboGPT!
 
 Hey there! **TurboGPT** is a free **Open Source** AI tool for TurboWarp/PenguinMod! 
 
