@@ -4,7 +4,7 @@ Hey there! **TurboGPT** is a free **Open Source** AI tool for TurboWarp/PenguinM
 
 ---
 
-### 💡What is TurboGPT for: ?
+### 💡What is TurboGPT for?
 ✅ **Write better code** with smart suggestions  
 ✅ **Debug effortlessly** with AI-powered insights  
 ✅ **Optimize projects** with code analysis  
